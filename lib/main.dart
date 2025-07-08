@@ -4,6 +4,7 @@ void main() {
   runApp(App());
 }
 
+// we are on the login screen branch
 class App extends StatelessWidget {
   const App({super.key});
   // bla bla bla
