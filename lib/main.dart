@@ -9,6 +9,7 @@ class App extends StatelessWidget {
   const App({super.key});
   // bla bla bla
   // second comment
+  // testing login screen branch pushing
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
