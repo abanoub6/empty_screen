@@ -13,7 +13,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(backgroundColor: Colors.blue),
+        appBar: AppBar(backgroundColor: Colors.black),
         body: Container(
           color: Colors.red,
           child: SizedBox(height: double.infinity, width: double.infinity),
